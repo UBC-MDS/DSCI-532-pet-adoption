@@ -1,0 +1,1001 @@
+hospital,animal,age,in_adoption,has_health_condition
+Happy Tails Veterinary Clinic,Dog,12.5,true,false
+Paws and Claws Animal Hospital,Dog,18.1,false,true
+Whiskers and Wags Pet Hospital,Dog,7.0,false,true
+Whiskers and Wags Pet Hospital,Cat,14.9,false,true
+Whiskers and Wags Pet Hospital,Cat,1.4,false,false
+Whiskers and Wags Pet Hospital,Cat,18.0,false,false
+Whiskers and Wags Pet Hospital,Cat,16.1,true,true
+Happy Tails Veterinary Clinic,Turtle,2.1,false,true
+Happy Tails Veterinary Clinic,Bird,15.4,false,true
+Whiskers and Wags Pet Hospital,Cat,19.3,false,true
+Paws and Claws Animal Hospital,Dog,17.6,false,false
+Whiskers and Wags Pet Hospital,Turtle,13.2,true,false
+Happy Tails Veterinary Clinic,Dog,4.3,false,false
+Paws and Claws Animal Hospital,Dog,15.7,true,true
+Happy Tails Veterinary Clinic,Dog,18.4,true,false
+Whiskers and Wags Pet Hospital,Dog,17.6,false,true
+Happy Tails Veterinary Clinic,Dog,14.8,true,false
+Paws and Claws Animal Hospital,Bird,6.2,true,true
+Whiskers and Wags Pet Hospital,Cat,8.7,false,false
+Paws and Claws Animal Hospital,Dog,9.5,false,false
+Whiskers and Wags Pet Hospital,Dog,2.6,false,true
+Happy Tails Veterinary Clinic,Cat,14.2,false,true
+Happy Tails Veterinary Clinic,Turtle,17.8,false,true
+Whiskers and Wags Pet Hospital,Dog,9.2,false,false
+Happy Tails Veterinary Clinic,Cat,17.5,false,true
+Happy Tails Veterinary Clinic,Dog,5.6,false,false
+Happy Tails Veterinary Clinic,Dog,16.1,true,false
+Paws and Claws Animal Hospital,Cat,6.7,false,true
+Happy Tails Veterinary Clinic,Cat,9.5,false,true
+Whiskers and Wags Pet Hospital,Cat,16.6,false,false
+Happy Tails Veterinary Clinic,Bird,18.6,false,false
+Happy Tails Veterinary Clinic,Cat,9.2,true,false
+Whiskers and Wags Pet Hospital,Bird,1.1,false,false
+Happy Tails Veterinary Clinic,Dog,16.6,false,true
+Happy Tails Veterinary Clinic,Cat,7.2,true,true
+Whiskers and Wags Pet Hospital,Turtle,0.0,false,true
+Happy Tails Veterinary Clinic,Cat,12.1,false,true
+Whiskers and Wags Pet Hospital,Turtle,8.1,true,false
+Whiskers and Wags Pet Hospital,Cat,15.1,false,false
+Happy Tails Veterinary Clinic,Dog,11.0,false,false
+Whiskers and Wags Pet Hospital,Cat,1.4,true,false
+Happy Tails Veterinary Clinic,Cat,7.4,false,true
+Paws and Claws Animal Hospital,Snake,6.6,true,false
+Paws and Claws Animal Hospital,Turtle,12.9,false,false
+Paws and Claws Animal Hospital,Turtle,7.4,false,true
+Paws and Claws Animal Hospital,Dog,9.0,false,true
+Whiskers and Wags Pet Hospital,Dog,6.4,false,false
+Paws and Claws Animal Hospital,Dog,9.1,false,true
+Paws and Claws Animal Hospital,Dog,17.7,false,false
+Whiskers and Wags Pet Hospital,Dog,14.4,true,false
+Paws and Claws Animal Hospital,Bird,2.2,true,true
+Whiskers and Wags Pet Hospital,Dog,11.2,false,true
+Whiskers and Wags Pet Hospital,Dog,18.8,false,true
+Paws and Claws Animal Hospital,Bird,4.7,false,false
+Paws and Claws Animal Hospital,Cat,13.6,true,false
+Whiskers and Wags Pet Hospital,Dog,12.5,true,true
+Paws and Claws Animal Hospital,Turtle,3.5,false,false
+Paws and Claws Animal Hospital,Dog,4.5,false,false
+Paws and Claws Animal Hospital,Dog,0.8,false,false
+Happy Tails Veterinary Clinic,Cat,19.3,true,true
+Whiskers and Wags Pet Hospital,Bird,15.6,false,true
+Whiskers and Wags Pet Hospital,Dog,9.3,true,false
+Paws and Claws Animal Hospital,Cat,17.7,false,false
+Paws and Claws Animal Hospital,Dog,10.1,false,true
+Happy Tails Veterinary Clinic,Dog,12.1,false,true
+Whiskers and Wags Pet Hospital,Bird,4.1,true,false
+Whiskers and Wags Pet Hospital,Bird,10.6,true,true
+Whiskers and Wags Pet Hospital,Dog,14.7,false,true
+Paws and Claws Animal Hospital,Dog,8.9,false,false
+Paws and Claws Animal Hospital,Cat,12.0,false,false
+Whiskers and Wags Pet Hospital,Dog,13.0,true,false
+Paws and Claws Animal Hospital,Dog,8.1,false,true
+Paws and Claws Animal Hospital,Bird,1.0,true,false
+Paws and Claws Animal Hospital,Cat,19.8,true,true
+Whiskers and Wags Pet Hospital,Cat,1.8,false,true
+Happy Tails Veterinary Clinic,Snake,9.4,false,true
+Paws and Claws Animal Hospital,Cat,17.1,true,true
+Whiskers and Wags Pet Hospital,Cat,4.4,true,true
+Paws and Claws Animal Hospital,Turtle,4.1,true,false
+Paws and Claws Animal Hospital,Dog,18.3,false,false
+Paws and Claws Animal Hospital,Cat,13.5,false,false
+Whiskers and Wags Pet Hospital,Dog,0.8,true,true
+Happy Tails Veterinary Clinic,Turtle,15.9,true,true
+Happy Tails Veterinary Clinic,Cat,16.5,true,false
+Happy Tails Veterinary Clinic,Dog,7.3,false,true
+Paws and Claws Animal Hospital,Dog,0.6,true,true
+Paws and Claws Animal Hospital,Dog,12.3,true,true
+Paws and Claws Animal Hospital,Dog,10.2,false,true
+Whiskers and Wags Pet Hospital,Dog,16.3,true,false
+Happy Tails Veterinary Clinic,Dog,10.6,false,false
+Whiskers and Wags Pet Hospital,Bird,16.5,false,false
+Paws and Claws Animal Hospital,Dog,8.5,true,false
+Happy Tails Veterinary Clinic,Dog,11.1,true,true
+Whiskers and Wags Pet Hospital,Cat,9.7,false,false
+Whiskers and Wags Pet Hospital,Cat,2.5,true,false
+Happy Tails Veterinary Clinic,Bird,11.8,true,true
+Whiskers and Wags Pet Hospital,Cat,19.9,true,true
+Whiskers and Wags Pet Hospital,Dog,8.7,false,true
+Paws and Claws Animal Hospital,Bird,6.0,false,true
+Happy Tails Veterinary Clinic,Dog,2.8,false,true
+Whiskers and Wags Pet Hospital,Dog,2.3,false,true
+Happy Tails Veterinary Clinic,Snake,7.5,true,false
+Happy Tails Veterinary Clinic,Dog,14.5,true,false
+Happy Tails Veterinary Clinic,Dog,10.7,false,false
+Paws and Claws Animal Hospital,Dog,12.0,true,false
+Whiskers and Wags Pet Hospital,Bird,6.4,false,false
+Whiskers and Wags Pet Hospital,Dog,9.0,true,true
+Paws and Claws Animal Hospital,Cat,6.2,true,true
+Happy Tails Veterinary Clinic,Cat,14.1,false,false
+Paws and Claws Animal Hospital,Snake,9.6,true,false
+Happy Tails Veterinary Clinic,Dog,9.6,false,false
+Happy Tails Veterinary Clinic,Bird,5.5,false,false
+Paws and Claws Animal Hospital,Dog,8.3,false,false
+Paws and Claws Animal Hospital,Dog,7.4,true,true
+Happy Tails Veterinary Clinic,Turtle,19.6,false,true
+Paws and Claws Animal Hospital,Dog,5.9,false,false
+Happy Tails Veterinary Clinic,Cat,0.6,false,true
+Happy Tails Veterinary Clinic,Dog,10.4,false,true
+Paws and Claws Animal Hospital,Dog,17.6,true,true
+Happy Tails Veterinary Clinic,Turtle,15.0,true,false
+Whiskers and Wags Pet Hospital,Cat,14.9,false,false
+Whiskers and Wags Pet Hospital,Turtle,17.8,true,true
+Paws and Claws Animal Hospital,Dog,9.0,true,false
+Paws and Claws Animal Hospital,Turtle,17.2,false,true
+Happy Tails Veterinary Clinic,Dog,7.8,false,false
+Happy Tails Veterinary Clinic,Dog,7.0,true,true
+Happy Tails Veterinary Clinic,Dog,5.9,false,true
+Happy Tails Veterinary Clinic,Cat,13.6,true,false
+Whiskers and Wags Pet Hospital,Cat,3.0,true,false
+Whiskers and Wags Pet Hospital,Cat,13.1,true,false
+Whiskers and Wags Pet Hospital,Bird,6.6,false,false
+Happy Tails Veterinary Clinic,Bird,13.4,true,true
+Whiskers and Wags Pet Hospital,Cat,19.8,true,false
+Paws and Claws Animal Hospital,Cat,9.0,false,false
+Paws and Claws Animal Hospital,Bird,2.7,false,false
+Happy Tails Veterinary Clinic,Dog,4.4,false,true
+Happy Tails Veterinary Clinic,Cat,17.5,false,true
+Paws and Claws Animal Hospital,Dog,19.7,false,true
+Happy Tails Veterinary Clinic,Cat,1.7,false,false
+Happy Tails Veterinary Clinic,Dog,19.1,false,true
+Happy Tails Veterinary Clinic,Bird,8.2,false,true
+Paws and Claws Animal Hospital,Dog,1.7,false,false
+Happy Tails Veterinary Clinic,Bird,7.3,true,true
+Paws and Claws Animal Hospital,Bird,17.1,true,true
+Happy Tails Veterinary Clinic,Bird,8.4,true,false
+Happy Tails Veterinary Clinic,Turtle,17.4,true,true
+Whiskers and Wags Pet Hospital,Cat,0.0,true,true
+Happy Tails Veterinary Clinic,Snake,15.9,false,true
+Whiskers and Wags Pet Hospital,Cat,12.1,true,false
+Whiskers and Wags Pet Hospital,Bird,2.1,false,false
+Happy Tails Veterinary Clinic,Dog,5.9,true,true
+Whiskers and Wags Pet Hospital,Dog,8.5,false,false
+Whiskers and Wags Pet Hospital,Cat,17.2,true,false
+Paws and Claws Animal Hospital,Cat,10.5,true,false
+Happy Tails Veterinary Clinic,Dog,8.0,true,false
+Happy Tails Veterinary Clinic,Snake,17.0,true,false
+Whiskers and Wags Pet Hospital,Cat,6.5,true,false
+Whiskers and Wags Pet Hospital,Cat,1.0,false,false
+Paws and Claws Animal Hospital,Cat,16.4,true,false
+Happy Tails Veterinary Clinic,Cat,14.8,true,false
+Whiskers and Wags Pet Hospital,Dog,16.2,false,false
+Whiskers and Wags Pet Hospital,Dog,1.9,false,true
+Happy Tails Veterinary Clinic,Dog,1.8,true,true
+Happy Tails Veterinary Clinic,Bird,17.1,false,true
+Paws and Claws Animal Hospital,Dog,9.4,true,true
+Happy Tails Veterinary Clinic,Snake,15.6,false,true
+Happy Tails Veterinary Clinic,Dog,0.5,false,false
+Paws and Claws Animal Hospital,Cat,13.8,true,false
+Happy Tails Veterinary Clinic,Dog,1.4,false,false
+Whiskers and Wags Pet Hospital,Snake,4.9,true,true
+Paws and Claws Animal Hospital,Turtle,5.2,false,false
+Paws and Claws Animal Hospital,Snake,8.5,false,false
+Paws and Claws Animal Hospital,Turtle,16.1,true,false
+Paws and Claws Animal Hospital,Cat,7.0,true,false
+Paws and Claws Animal Hospital,Turtle,6.6,true,true
+Paws and Claws Animal Hospital,Turtle,3.6,true,true
+Whiskers and Wags Pet Hospital,Cat,19.2,true,true
+Whiskers and Wags Pet Hospital,Dog,3.2,true,true
+Happy Tails Veterinary Clinic,Bird,15.9,false,true
+Whiskers and Wags Pet Hospital,Dog,15.0,true,true
+Paws and Claws Animal Hospital,Turtle,6.4,false,false
+Happy Tails Veterinary Clinic,Bird,7.5,false,false
+Paws and Claws Animal Hospital,Bird,20.0,false,false
+Whiskers and Wags Pet Hospital,Turtle,19.3,true,false
+Happy Tails Veterinary Clinic,Turtle,18.0,true,true
+Happy Tails Veterinary Clinic,Bird,19.4,true,true
+Whiskers and Wags Pet Hospital,Bird,0.3,false,false
+Paws and Claws Animal Hospital,Turtle,9.3,true,false
+Happy Tails Veterinary Clinic,Bird,9.7,true,true
+Whiskers and Wags Pet Hospital,Cat,4.6,false,true
+Paws and Claws Animal Hospital,Cat,6.6,false,false
+Happy Tails Veterinary Clinic,Bird,19.4,false,true
+Happy Tails Veterinary Clinic,Cat,15.5,true,true
+Whiskers and Wags Pet Hospital,Bird,0.2,false,false
+Whiskers and Wags Pet Hospital,Bird,13.4,false,true
+Happy Tails Veterinary Clinic,Dog,4.7,true,false
+Paws and Claws Animal Hospital,Dog,9.2,true,true
+Paws and Claws Animal Hospital,Snake,11.7,true,true
+Paws and Claws Animal Hospital,Dog,13.9,false,false
+Whiskers and Wags Pet Hospital,Dog,10.4,false,false
+Whiskers and Wags Pet Hospital,Dog,1.1,true,true
+Paws and Claws Animal Hospital,Snake,19.5,true,true
+Happy Tails Veterinary Clinic,Turtle,1.6,false,true
+Happy Tails Veterinary Clinic,Snake,19.5,true,true
+Whiskers and Wags Pet Hospital,Bird,9.6,true,true
+Paws and Claws Animal Hospital,Cat,17.9,false,false
+Whiskers and Wags Pet Hospital,Dog,14.9,false,false
+Happy Tails Veterinary Clinic,Turtle,10.5,true,false
+Whiskers and Wags Pet Hospital,Cat,15.5,true,true
+Whiskers and Wags Pet Hospital,Dog,5.6,true,true
+Happy Tails Veterinary Clinic,Dog,19.5,true,false
+Happy Tails Veterinary Clinic,Dog,19.2,false,true
+Happy Tails Veterinary Clinic,Turtle,18.1,false,true
+Whiskers and Wags Pet Hospital,Turtle,7.0,true,false
+Whiskers and Wags Pet Hospital,Cat,9.1,false,false
+Whiskers and Wags Pet Hospital,Dog,6.6,true,true
+Whiskers and Wags Pet Hospital,Cat,3.6,true,false
+Whiskers and Wags Pet Hospital,Dog,5.8,false,false
+Whiskers and Wags Pet Hospital,Dog,2.3,true,true
+Whiskers and Wags Pet Hospital,Cat,1.7,false,true
+Paws and Claws Animal Hospital,Snake,7.3,false,true
+Happy Tails Veterinary Clinic,Bird,1.0,true,true
+Paws and Claws Animal Hospital,Cat,19.9,false,false
+Happy Tails Veterinary Clinic,Dog,17.5,false,true
+Happy Tails Veterinary Clinic,Bird,14.3,false,false
+Happy Tails Veterinary Clinic,Dog,13.2,false,false
+Happy Tails Veterinary Clinic,Dog,7.2,false,true
+Happy Tails Veterinary Clinic,Dog,14.3,true,false
+Paws and Claws Animal Hospital,Cat,11.4,true,true
+Happy Tails Veterinary Clinic,Dog,10.0,true,false
+Happy Tails Veterinary Clinic,Dog,19.2,false,true
+Paws and Claws Animal Hospital,Dog,7.9,true,true
+Whiskers and Wags Pet Hospital,Bird,4.8,false,true
+Whiskers and Wags Pet Hospital,Cat,13.5,false,false
+Happy Tails Veterinary Clinic,Dog,11.0,false,false
+Paws and Claws Animal Hospital,Bird,8.9,true,false
+Happy Tails Veterinary Clinic,Cat,13.3,true,true
+Paws and Claws Animal Hospital,Bird,6.3,false,false
+Paws and Claws Animal Hospital,Cat,18.1,true,true
+Whiskers and Wags Pet Hospital,Snake,6.6,true,true
+Happy Tails Veterinary Clinic,Dog,19.2,true,false
+Paws and Claws Animal Hospital,Turtle,17.5,false,false
+Happy Tails Veterinary Clinic,Bird,12.0,false,false
+Happy Tails Veterinary Clinic,Dog,16.1,false,false
+Happy Tails Veterinary Clinic,Cat,5.7,true,true
+Paws and Claws Animal Hospital,Cat,8.5,true,true
+Whiskers and Wags Pet Hospital,Bird,2.8,false,false
+Whiskers and Wags Pet Hospital,Dog,13.7,true,false
+Happy Tails Veterinary Clinic,Turtle,14.6,false,false
+Happy Tails Veterinary Clinic,Cat,16.4,true,true
+Happy Tails Veterinary Clinic,Snake,15.6,false,true
+Paws and Claws Animal Hospital,Cat,16.7,false,false
+Whiskers and Wags Pet Hospital,Dog,5.6,true,true
+Paws and Claws Animal Hospital,Bird,8.6,true,false
+Whiskers and Wags Pet Hospital,Bird,13.3,true,false
+Paws and Claws Animal Hospital,Turtle,1.8,false,true
+Whiskers and Wags Pet Hospital,Cat,5.0,true,true
+Happy Tails Veterinary Clinic,Snake,7.4,false,false
+Whiskers and Wags Pet Hospital,Bird,17.3,true,true
+Whiskers and Wags Pet Hospital,Dog,1.3,true,false
+Paws and Claws Animal Hospital,Dog,11.5,false,true
+Whiskers and Wags Pet Hospital,Snake,0.6,true,true
+Whiskers and Wags Pet Hospital,Dog,16.9,true,true
+Paws and Claws Animal Hospital,Dog,0.7,false,false
+Whiskers and Wags Pet Hospital,Snake,19.4,true,true
+Happy Tails Veterinary Clinic,Turtle,11.7,true,true
+Happy Tails Veterinary Clinic,Cat,13.7,true,true
+Whiskers and Wags Pet Hospital,Turtle,8.1,true,true
+Whiskers and Wags Pet Hospital,Bird,3.1,true,false
+Happy Tails Veterinary Clinic,Bird,15.4,true,false
+Happy Tails Veterinary Clinic,Snake,11.1,false,false
+Happy Tails Veterinary Clinic,Bird,17.7,false,false
+Whiskers and Wags Pet Hospital,Cat,4.0,false,false
+Paws and Claws Animal Hospital,Cat,3.9,false,false
+Whiskers and Wags Pet Hospital,Cat,11.9,false,false
+Paws and Claws Animal Hospital,Bird,3.8,false,true
+Whiskers and Wags Pet Hospital,Cat,14.6,true,true
+Paws and Claws Animal Hospital,Dog,8.5,true,false
+Whiskers and Wags Pet Hospital,Cat,11.6,false,false
+Paws and Claws Animal Hospital,Cat,11.0,true,true
+Paws and Claws Animal Hospital,Dog,7.0,false,false
+Whiskers and Wags Pet Hospital,Dog,4.9,false,false
+Whiskers and Wags Pet Hospital,Dog,17.8,false,false
+Paws and Claws Animal Hospital,Dog,14.4,true,false
+Happy Tails Veterinary Clinic,Cat,13.2,true,true
+Paws and Claws Animal Hospital,Cat,6.1,true,false
+Whiskers and Wags Pet Hospital,Dog,2.3,false,false
+Whiskers and Wags Pet Hospital,Turtle,6.4,true,true
+Whiskers and Wags Pet Hospital,Dog,13.9,true,true
+Whiskers and Wags Pet Hospital,Dog,1.2,false,true
+Paws and Claws Animal Hospital,Turtle,17.3,false,false
+Paws and Claws Animal Hospital,Dog,11.2,false,true
+Paws and Claws Animal Hospital,Dog,8.0,false,true
+Whiskers and Wags Pet Hospital,Bird,15.5,true,false
+Whiskers and Wags Pet Hospital,Cat,16.6,false,false
+Whiskers and Wags Pet Hospital,Cat,17.7,false,true
+Happy Tails Veterinary Clinic,Cat,16.1,true,true
+Happy Tails Veterinary Clinic,Cat,18.2,false,true
+Happy Tails Veterinary Clinic,Cat,15.4,false,false
+Paws and Claws Animal Hospital,Turtle,19.9,true,true
+Whiskers and Wags Pet Hospital,Cat,12.1,false,true
+Paws and Claws Animal Hospital,Bird,9.7,true,false
+Whiskers and Wags Pet Hospital,Turtle,6.0,false,true
+Paws and Claws Animal Hospital,Cat,14.1,false,false
+Paws and Claws Animal Hospital,Dog,11.7,true,true
+Whiskers and Wags Pet Hospital,Bird,4.5,false,false
+Paws and Claws Animal Hospital,Bird,15.9,false,false
+Happy Tails Veterinary Clinic,Dog,14.3,false,true
+Whiskers and Wags Pet Hospital,Cat,16.1,false,true
+Paws and Claws Animal Hospital,Bird,2.3,true,true
+Whiskers and Wags Pet Hospital,Cat,5.4,false,true
+Happy Tails Veterinary Clinic,Snake,16.0,true,false
+Whiskers and Wags Pet Hospital,Bird,5.8,true,true
+Whiskers and Wags Pet Hospital,Cat,1.4,false,true
+Happy Tails Veterinary Clinic,Dog,10.2,false,true
+Whiskers and Wags Pet Hospital,Dog,17.6,false,true
+Whiskers and Wags Pet Hospital,Snake,7.7,false,false
+Whiskers and Wags Pet Hospital,Cat,3.1,true,true
+Whiskers and Wags Pet Hospital,Dog,3.6,true,true
+Whiskers and Wags Pet Hospital,Bird,1.6,true,false
+Happy Tails Veterinary Clinic,Bird,12.9,true,true
+Happy Tails Veterinary Clinic,Turtle,8.3,false,true
+Paws and Claws Animal Hospital,Dog,9.5,false,true
+Whiskers and Wags Pet Hospital,Turtle,1.1,false,false
+Paws and Claws Animal Hospital,Turtle,4.1,true,true
+Paws and Claws Animal Hospital,Dog,12.9,true,true
+Happy Tails Veterinary Clinic,Turtle,12.7,false,true
+Whiskers and Wags Pet Hospital,Dog,3.8,true,false
+Whiskers and Wags Pet Hospital,Snake,12.2,false,true
+Whiskers and Wags Pet Hospital,Turtle,16.7,true,true
+Happy Tails Veterinary Clinic,Cat,13.3,false,false
+Paws and Claws Animal Hospital,Turtle,0.4,false,true
+Whiskers and Wags Pet Hospital,Cat,1.4,true,true
+Paws and Claws Animal Hospital,Cat,10.6,true,false
+Happy Tails Veterinary Clinic,Snake,19.4,false,false
+Happy Tails Veterinary Clinic,Dog,5.7,false,true
+Happy Tails Veterinary Clinic,Dog,5.0,false,false
+Whiskers and Wags Pet Hospital,Dog,16.3,true,false
+Happy Tails Veterinary Clinic,Turtle,15.5,false,true
+Paws and Claws Animal Hospital,Cat,18.0,false,true
+Whiskers and Wags Pet Hospital,Dog,4.6,false,true
+Happy Tails Veterinary Clinic,Dog,1.2,false,false
+Happy Tails Veterinary Clinic,Turtle,19.6,false,true
+Whiskers and Wags Pet Hospital,Cat,11.8,false,true
+Paws and Claws Animal Hospital,Dog,8.7,true,false
+Whiskers and Wags Pet Hospital,Cat,5.0,false,true
+Paws and Claws Animal Hospital,Snake,14.2,false,false
+Whiskers and Wags Pet Hospital,Bird,11.2,false,true
+Happy Tails Veterinary Clinic,Dog,12.5,true,false
+Happy Tails Veterinary Clinic,Cat,3.1,false,true
+Happy Tails Veterinary Clinic,Bird,16.1,false,true
+Happy Tails Veterinary Clinic,Cat,13.6,true,false
+Whiskers and Wags Pet Hospital,Cat,18.6,false,false
+Happy Tails Veterinary Clinic,Bird,9.8,false,false
+Whiskers and Wags Pet Hospital,Turtle,6.0,false,false
+Paws and Claws Animal Hospital,Cat,13.2,true,false
+Paws and Claws Animal Hospital,Bird,8.2,true,true
+Paws and Claws Animal Hospital,Turtle,8.9,true,false
+Whiskers and Wags Pet Hospital,Cat,2.2,true,false
+Whiskers and Wags Pet Hospital,Turtle,4.7,true,true
+Happy Tails Veterinary Clinic,Snake,17.3,true,false
+Paws and Claws Animal Hospital,Turtle,1.3,true,false
+Whiskers and Wags Pet Hospital,Turtle,4.8,true,false
+Paws and Claws Animal Hospital,Bird,10.7,false,true
+Happy Tails Veterinary Clinic,Bird,14.6,false,false
+Whiskers and Wags Pet Hospital,Dog,19.2,false,false
+Happy Tails Veterinary Clinic,Dog,9.7,true,true
+Paws and Claws Animal Hospital,Cat,2.4,false,false
+Happy Tails Veterinary Clinic,Turtle,17.4,false,true
+Paws and Claws Animal Hospital,Dog,1.6,false,false
+Paws and Claws Animal Hospital,Dog,12.6,false,false
+Paws and Claws Animal Hospital,Dog,11.7,true,true
+Happy Tails Veterinary Clinic,Cat,16.8,true,false
+Paws and Claws Animal Hospital,Cat,12.0,false,false
+Happy Tails Veterinary Clinic,Cat,14.0,true,true
+Paws and Claws Animal Hospital,Dog,18.5,true,true
+Whiskers and Wags Pet Hospital,Cat,10.7,true,false
+Paws and Claws Animal Hospital,Cat,13.1,true,false
+Paws and Claws Animal Hospital,Cat,13.6,false,true
+Paws and Claws Animal Hospital,Turtle,11.1,true,true
+Happy Tails Veterinary Clinic,Dog,16.9,true,true
+Paws and Claws Animal Hospital,Cat,16.0,false,true
+Happy Tails Veterinary Clinic,Cat,5.4,false,false
+Paws and Claws Animal Hospital,Turtle,9.4,true,false
+Whiskers and Wags Pet Hospital,Dog,1.4,true,true
+Paws and Claws Animal Hospital,Dog,1.9,false,false
+Whiskers and Wags Pet Hospital,Dog,13.1,true,true
+Paws and Claws Animal Hospital,Dog,16.2,true,false
+Happy Tails Veterinary Clinic,Turtle,4.8,true,false
+Whiskers and Wags Pet Hospital,Bird,19.3,false,true
+Whiskers and Wags Pet Hospital,Bird,12.2,false,false
+Paws and Claws Animal Hospital,Cat,13.1,true,false
+Happy Tails Veterinary Clinic,Dog,18.7,false,false
+Whiskers and Wags Pet Hospital,Bird,2.6,false,true
+Happy Tails Veterinary Clinic,Cat,8.7,false,false
+Happy Tails Veterinary Clinic,Bird,15.1,true,true
+Paws and Claws Animal Hospital,Cat,16.7,false,false
+Whiskers and Wags Pet Hospital,Bird,19.7,true,true
+Happy Tails Veterinary Clinic,Cat,11.5,true,true
+Whiskers and Wags Pet Hospital,Bird,11.5,true,true
+Whiskers and Wags Pet Hospital,Dog,19.1,true,true
+Whiskers and Wags Pet Hospital,Cat,7.8,true,false
+Paws and Claws Animal Hospital,Bird,1.9,true,true
+Paws and Claws Animal Hospital,Cat,10.3,true,true
+Happy Tails Veterinary Clinic,Cat,1.3,true,true
+Paws and Claws Animal Hospital,Cat,7.6,true,true
+Paws and Claws Animal Hospital,Dog,10.6,false,false
+Happy Tails Veterinary Clinic,Bird,0.4,false,true
+Paws and Claws Animal Hospital,Bird,18.4,false,true
+Paws and Claws Animal Hospital,Snake,7.0,true,false
+Happy Tails Veterinary Clinic,Cat,8.4,true,true
+Happy Tails Veterinary Clinic,Snake,6.0,false,false
+Paws and Claws Animal Hospital,Dog,18.9,false,false
+Whiskers and Wags Pet Hospital,Dog,9.5,true,false
+Happy Tails Veterinary Clinic,Cat,1.9,false,true
+Paws and Claws Animal Hospital,Dog,18.0,true,true
+Paws and Claws Animal Hospital,Cat,16.9,false,false
+Happy Tails Veterinary Clinic,Dog,19.0,true,true
+Whiskers and Wags Pet Hospital,Bird,1.8,true,true
+Happy Tails Veterinary Clinic,Bird,19.8,false,false
+Happy Tails Veterinary Clinic,Turtle,11.0,false,false
+Whiskers and Wags Pet Hospital,Dog,10.7,false,false
+Whiskers and Wags Pet Hospital,Cat,20.0,false,true
+Paws and Claws Animal Hospital,Bird,13.9,true,true
+Whiskers and Wags Pet Hospital,Cat,5.4,false,false
+Whiskers and Wags Pet Hospital,Cat,7.8,true,true
+Paws and Claws Animal Hospital,Turtle,2.3,true,true
+Happy Tails Veterinary Clinic,Cat,4.0,false,false
+Paws and Claws Animal Hospital,Dog,11.2,true,false
+Paws and Claws Animal Hospital,Dog,4.0,true,false
+Paws and Claws Animal Hospital,Bird,18.2,true,false
+Paws and Claws Animal Hospital,Cat,17.8,true,false
+Happy Tails Veterinary Clinic,Dog,9.4,false,true
+Paws and Claws Animal Hospital,Snake,18.5,true,false
+Happy Tails Veterinary Clinic,Dog,5.9,false,false
+Whiskers and Wags Pet Hospital,Dog,12.5,false,true
+Happy Tails Veterinary Clinic,Dog,11.3,true,true
+Paws and Claws Animal Hospital,Cat,0.1,true,false
+Whiskers and Wags Pet Hospital,Dog,14.3,false,false
+Paws and Claws Animal Hospital,Cat,3.2,false,true
+Whiskers and Wags Pet Hospital,Bird,4.0,false,false
+Paws and Claws Animal Hospital,Dog,10.5,true,false
+Whiskers and Wags Pet Hospital,Dog,17.2,false,true
+Paws and Claws Animal Hospital,Turtle,12.7,true,true
+Happy Tails Veterinary Clinic,Dog,12.7,true,true
+Happy Tails Veterinary Clinic,Snake,11.4,false,true
+Happy Tails Veterinary Clinic,Bird,3.5,true,false
+Happy Tails Veterinary Clinic,Turtle,9.0,true,true
+Happy Tails Veterinary Clinic,Dog,7.4,false,true
+Whiskers and Wags Pet Hospital,Dog,7.9,true,false
+Happy Tails Veterinary Clinic,Cat,12.7,false,true
+Whiskers and Wags Pet Hospital,Bird,3.0,true,false
+Happy Tails Veterinary Clinic,Cat,5.0,true,true
+Whiskers and Wags Pet Hospital,Bird,13.4,true,true
+Whiskers and Wags Pet Hospital,Cat,8.0,false,false
+Paws and Claws Animal Hospital,Dog,17.6,false,false
+Happy Tails Veterinary Clinic,Bird,12.2,false,true
+Whiskers and Wags Pet Hospital,Cat,12.2,false,true
+Paws and Claws Animal Hospital,Bird,13.0,false,true
+Paws and Claws Animal Hospital,Dog,10.1,true,false
+Paws and Claws Animal Hospital,Dog,3.8,true,false
+Happy Tails Veterinary Clinic,Dog,19.6,true,false
+Happy Tails Veterinary Clinic,Dog,13.6,true,false
+Happy Tails Veterinary Clinic,Bird,7.0,true,false
+Paws and Claws Animal Hospital,Dog,14.1,false,false
+Happy Tails Veterinary Clinic,Turtle,0.7,false,false
+Paws and Claws Animal Hospital,Snake,10.5,false,false
+Paws and Claws Animal Hospital,Dog,19.5,false,false
+Happy Tails Veterinary Clinic,Dog,14.1,true,false
+Whiskers and Wags Pet Hospital,Cat,7.6,true,false
+Paws and Claws Animal Hospital,Snake,9.3,true,false
+Paws and Claws Animal Hospital,Turtle,4.2,false,true
+Happy Tails Veterinary Clinic,Cat,2.9,false,true
+Happy Tails Veterinary Clinic,Dog,14.8,true,false
+Paws and Claws Animal Hospital,Dog,2.2,false,true
+Paws and Claws Animal Hospital,Dog,9.2,true,true
+Whiskers and Wags Pet Hospital,Cat,6.3,false,false
+Happy Tails Veterinary Clinic,Dog,5.7,true,false
+Paws and Claws Animal Hospital,Turtle,4.7,true,false
+Happy Tails Veterinary Clinic,Dog,2.6,false,false
+Whiskers and Wags Pet Hospital,Cat,7.7,true,true
+Paws and Claws Animal Hospital,Cat,8.7,false,false
+Whiskers and Wags Pet Hospital,Cat,19.5,true,true
+Whiskers and Wags Pet Hospital,Cat,12.5,false,false
+Happy Tails Veterinary Clinic,Bird,1.3,false,true
+Whiskers and Wags Pet Hospital,Turtle,11.2,true,true
+Whiskers and Wags Pet Hospital,Turtle,18.1,false,false
+Whiskers and Wags Pet Hospital,Cat,9.1,false,true
+Happy Tails Veterinary Clinic,Snake,14.0,false,true
+Paws and Claws Animal Hospital,Dog,6.3,true,false
+Happy Tails Veterinary Clinic,Cat,15.9,true,true
+Whiskers and Wags Pet Hospital,Cat,15.9,false,true
+Whiskers and Wags Pet Hospital,Snake,7.4,false,false
+Happy Tails Veterinary Clinic,Cat,14.3,false,false
+Happy Tails Veterinary Clinic,Cat,14.3,false,false
+Happy Tails Veterinary Clinic,Dog,15.7,true,true
+Whiskers and Wags Pet Hospital,Bird,5.0,true,true
+Happy Tails Veterinary Clinic,Bird,11.1,true,true
+Happy Tails Veterinary Clinic,Dog,5.1,true,false
+Paws and Claws Animal Hospital,Snake,8.1,true,false
+Whiskers and Wags Pet Hospital,Dog,15.6,true,true
+Paws and Claws Animal Hospital,Dog,8.4,false,true
+Happy Tails Veterinary Clinic,Cat,16.7,false,false
+Happy Tails Veterinary Clinic,Snake,17.6,true,true
+Happy Tails Veterinary Clinic,Snake,12.6,true,true
+Paws and Claws Animal Hospital,Cat,4.0,false,true
+Happy Tails Veterinary Clinic,Cat,14.5,false,false
+Happy Tails Veterinary Clinic,Dog,17.6,true,false
+Paws and Claws Animal Hospital,Dog,16.1,true,true
+Happy Tails Veterinary Clinic,Turtle,10.3,true,false
+Whiskers and Wags Pet Hospital,Dog,13.7,true,false
+Paws and Claws Animal Hospital,Cat,11.8,false,false
+Paws and Claws Animal Hospital,Cat,0.7,false,false
+Paws and Claws Animal Hospital,Dog,19.8,true,false
+Whiskers and Wags Pet Hospital,Dog,7.1,false,true
+Happy Tails Veterinary Clinic,Dog,14.1,false,true
+Paws and Claws Animal Hospital,Cat,11.5,false,false
+Whiskers and Wags Pet Hospital,Dog,0.5,true,false
+Happy Tails Veterinary Clinic,Bird,18.1,true,false
+Whiskers and Wags Pet Hospital,Dog,17.9,true,true
+Whiskers and Wags Pet Hospital,Dog,18.4,false,false
+Whiskers and Wags Pet Hospital,Dog,10.9,true,false
+Whiskers and Wags Pet Hospital,Cat,19.4,false,true
+Happy Tails Veterinary Clinic,Bird,2.7,true,true
+Whiskers and Wags Pet Hospital,Snake,12.1,true,true
+Happy Tails Veterinary Clinic,Bird,14.2,false,false
+Happy Tails Veterinary Clinic,Dog,8.9,true,true
+Paws and Claws Animal Hospital,Cat,2.2,false,false
+Whiskers and Wags Pet Hospital,Cat,9.5,true,false
+Whiskers and Wags Pet Hospital,Cat,14.7,false,false
+Whiskers and Wags Pet Hospital,Turtle,13.0,false,false
+Happy Tails Veterinary Clinic,Bird,3.0,true,false
+Happy Tails Veterinary Clinic,Turtle,14.7,false,true
+Happy Tails Veterinary Clinic,Bird,17.8,false,true
+Whiskers and Wags Pet Hospital,Cat,9.5,false,true
+Happy Tails Veterinary Clinic,Cat,8.6,true,false
+Happy Tails Veterinary Clinic,Bird,8.1,false,true
+Paws and Claws Animal Hospital,Dog,8.3,true,true
+Happy Tails Veterinary Clinic,Dog,1.4,false,false
+Paws and Claws Animal Hospital,Cat,4.2,false,true
+Happy Tails Veterinary Clinic,Dog,17.2,false,false
+Happy Tails Veterinary Clinic,Dog,10.3,false,false
+Whiskers and Wags Pet Hospital,Bird,18.9,false,false
+Paws and Claws Animal Hospital,Dog,18.6,false,true
+Paws and Claws Animal Hospital,Dog,11.6,false,true
+Whiskers and Wags Pet Hospital,Cat,13.2,true,false
+Whiskers and Wags Pet Hospital,Dog,1.7,true,false
+Whiskers and Wags Pet Hospital,Cat,18.0,false,false
+Whiskers and Wags Pet Hospital,Dog,5.0,true,true
+Whiskers and Wags Pet Hospital,Cat,3.0,false,false
+Paws and Claws Animal Hospital,Bird,7.7,false,true
+Paws and Claws Animal Hospital,Dog,16.7,true,true
+Happy Tails Veterinary Clinic,Dog,18.7,false,true
+Paws and Claws Animal Hospital,Cat,14.1,true,true
+Happy Tails Veterinary Clinic,Dog,1.4,false,false
+Whiskers and Wags Pet Hospital,Dog,12.4,false,true
+Happy Tails Veterinary Clinic,Cat,7.7,false,false
+Whiskers and Wags Pet Hospital,Cat,7.7,false,false
+Happy Tails Veterinary Clinic,Snake,0.1,true,true
+Happy Tails Veterinary Clinic,Snake,18.8,false,false
+Paws and Claws Animal Hospital,Dog,12.5,false,true
+Whiskers and Wags Pet Hospital,Cat,19.3,false,true
+Happy Tails Veterinary Clinic,Dog,5.4,true,true
+Happy Tails Veterinary Clinic,Dog,12.7,false,true
+Paws and Claws Animal Hospital,Cat,2.1,false,true
+Happy Tails Veterinary Clinic,Cat,9.7,true,true
+Paws and Claws Animal Hospital,Dog,4.9,true,false
+Happy Tails Veterinary Clinic,Cat,15.8,true,true
+Happy Tails Veterinary Clinic,Dog,6.3,false,false
+Whiskers and Wags Pet Hospital,Snake,7.0,false,true
+Happy Tails Veterinary Clinic,Dog,9.4,true,false
+Whiskers and Wags Pet Hospital,Cat,0.3,false,true
+Paws and Claws Animal Hospital,Cat,19.3,false,true
+Paws and Claws Animal Hospital,Turtle,0.2,false,false
+Happy Tails Veterinary Clinic,Cat,3.7,false,true
+Happy Tails Veterinary Clinic,Bird,5.6,true,true
+Whiskers and Wags Pet Hospital,Cat,4.9,true,true
+Happy Tails Veterinary Clinic,Dog,10.6,false,true
+Happy Tails Veterinary Clinic,Cat,9.0,false,true
+Whiskers and Wags Pet Hospital,Cat,13.7,false,false
+Paws and Claws Animal Hospital,Cat,11.4,true,false
+Happy Tails Veterinary Clinic,Snake,16.7,true,false
+Whiskers and Wags Pet Hospital,Cat,3.5,false,true
+Paws and Claws Animal Hospital,Cat,14.2,true,false
+Whiskers and Wags Pet Hospital,Snake,19.1,false,false
+Whiskers and Wags Pet Hospital,Cat,15.8,true,false
+Whiskers and Wags Pet Hospital,Bird,14.5,true,true
+Whiskers and Wags Pet Hospital,Bird,7.5,false,true
+Whiskers and Wags Pet Hospital,Snake,5.1,false,false
+Happy Tails Veterinary Clinic,Cat,3.5,true,true
+Happy Tails Veterinary Clinic,Cat,6.0,false,true
+Happy Tails Veterinary Clinic,Dog,5.7,false,true
+Whiskers and Wags Pet Hospital,Turtle,2.7,true,true
+Happy Tails Veterinary Clinic,Cat,18.9,true,false
+Happy Tails Veterinary Clinic,Dog,3.4,false,true
+Whiskers and Wags Pet Hospital,Dog,7.0,false,false
+Whiskers and Wags Pet Hospital,Dog,16.9,false,false
+Happy Tails Veterinary Clinic,Cat,8.6,false,true
+Happy Tails Veterinary Clinic,Bird,4.3,false,false
+Whiskers and Wags Pet Hospital,Turtle,8.2,true,true
+Whiskers and Wags Pet Hospital,Dog,2.4,true,false
+Paws and Claws Animal Hospital,Cat,17.7,false,true
+Happy Tails Veterinary Clinic,Cat,5.6,true,false
+Happy Tails Veterinary Clinic,Cat,0.6,true,true
+Paws and Claws Animal Hospital,Cat,6.7,true,true
+Whiskers and Wags Pet Hospital,Cat,8.4,false,false
+Whiskers and Wags Pet Hospital,Dog,5.9,false,false
+Paws and Claws Animal Hospital,Cat,1.1,false,true
+Happy Tails Veterinary Clinic,Bird,15.4,true,true
+Paws and Claws Animal Hospital,Turtle,9.3,true,false
+Happy Tails Veterinary Clinic,Dog,6.8,false,false
+Happy Tails Veterinary Clinic,Cat,13.8,false,true
+Whiskers and Wags Pet Hospital,Cat,10.7,true,true
+Paws and Claws Animal Hospital,Dog,16.5,true,true
+Happy Tails Veterinary Clinic,Dog,8.4,false,false
+Happy Tails Veterinary Clinic,Dog,11.5,false,false
+Whiskers and Wags Pet Hospital,Snake,19.1,true,true
+Paws and Claws Animal Hospital,Bird,11.5,true,true
+Happy Tails Veterinary Clinic,Bird,15.9,false,false
+Paws and Claws Animal Hospital,Cat,15.7,true,true
+Paws and Claws Animal Hospital,Bird,4.0,false,true
+Whiskers and Wags Pet Hospital,Turtle,1.2,false,true
+Happy Tails Veterinary Clinic,Dog,19.9,false,false
+Whiskers and Wags Pet Hospital,Bird,16.6,true,true
+Happy Tails Veterinary Clinic,Cat,1.5,true,false
+Paws and Claws Animal Hospital,Dog,11.0,false,false
+Paws and Claws Animal Hospital,Bird,16.6,true,false
+Whiskers and Wags Pet Hospital,Turtle,8.9,false,false
+Whiskers and Wags Pet Hospital,Dog,7.5,true,true
+Happy Tails Veterinary Clinic,Bird,0.4,true,true
+Whiskers and Wags Pet Hospital,Cat,9.9,false,false
+Whiskers and Wags Pet Hospital,Turtle,12.2,true,true
+Paws and Claws Animal Hospital,Cat,10.8,true,false
+Paws and Claws Animal Hospital,Cat,10.3,false,false
+Happy Tails Veterinary Clinic,Dog,13.8,false,true
+Paws and Claws Animal Hospital,Cat,10.6,true,true
+Happy Tails Veterinary Clinic,Cat,18.5,true,true
+Happy Tails Veterinary Clinic,Dog,9.6,false,false
+Happy Tails Veterinary Clinic,Cat,16.5,true,false
+Paws and Claws Animal Hospital,Cat,3.9,true,true
+Happy Tails Veterinary Clinic,Cat,16.1,false,true
+Happy Tails Veterinary Clinic,Dog,11.7,true,true
+Happy Tails Veterinary Clinic,Cat,2.0,false,false
+Whiskers and Wags Pet Hospital,Bird,11.4,false,false
+Paws and Claws Animal Hospital,Cat,8.2,true,true
+Happy Tails Veterinary Clinic,Cat,12.0,false,true
+Whiskers and Wags Pet Hospital,Turtle,10.4,false,true
+Paws and Claws Animal Hospital,Cat,20.0,true,true
+Whiskers and Wags Pet Hospital,Turtle,2.8,true,true
+Whiskers and Wags Pet Hospital,Cat,3.6,true,false
+Paws and Claws Animal Hospital,Dog,7.9,false,true
+Happy Tails Veterinary Clinic,Bird,7.2,false,true
+Paws and Claws Animal Hospital,Dog,0.9,false,false
+Happy Tails Veterinary Clinic,Cat,19.1,true,true
+Whiskers and Wags Pet Hospital,Bird,6.4,false,false
+Happy Tails Veterinary Clinic,Turtle,1.4,false,true
+Paws and Claws Animal Hospital,Snake,11.3,true,true
+Paws and Claws Animal Hospital,Cat,0.6,true,true
+Happy Tails Veterinary Clinic,Dog,1.0,true,false
+Whiskers and Wags Pet Hospital,Cat,6.1,true,true
+Happy Tails Veterinary Clinic,Dog,14.8,true,false
+Paws and Claws Animal Hospital,Cat,6.0,false,true
+Happy Tails Veterinary Clinic,Bird,1.3,false,true
+Happy Tails Veterinary Clinic,Bird,15.9,false,true
+Happy Tails Veterinary Clinic,Bird,15.8,true,true
+Whiskers and Wags Pet Hospital,Cat,8.9,false,true
+Happy Tails Veterinary Clinic,Dog,5.5,true,true
+Whiskers and Wags Pet Hospital,Snake,1.3,true,true
+Whiskers and Wags Pet Hospital,Cat,19.2,false,true
+Whiskers and Wags Pet Hospital,Cat,12.7,true,false
+Whiskers and Wags Pet Hospital,Bird,10.7,false,true
+Whiskers and Wags Pet Hospital,Bird,17.9,true,false
+Happy Tails Veterinary Clinic,Dog,9.1,true,false
+Happy Tails Veterinary Clinic,Dog,10.2,false,true
+Paws and Claws Animal Hospital,Cat,1.8,false,false
+Whiskers and Wags Pet Hospital,Bird,11.9,false,false
+Paws and Claws Animal Hospital,Dog,0.6,true,false
+Whiskers and Wags Pet Hospital,Cat,7.7,true,true
+Happy Tails Veterinary Clinic,Dog,12.2,false,false
+Whiskers and Wags Pet Hospital,Turtle,4.6,true,true
+Happy Tails Veterinary Clinic,Turtle,5.0,false,true
+Happy Tails Veterinary Clinic,Dog,8.4,false,true
+Paws and Claws Animal Hospital,Cat,1.3,true,false
+Paws and Claws Animal Hospital,Dog,11.0,true,false
+Happy Tails Veterinary Clinic,Turtle,0.8,true,false
+Paws and Claws Animal Hospital,Bird,17.6,true,false
+Happy Tails Veterinary Clinic,Bird,3.5,false,true
+Paws and Claws Animal Hospital,Bird,11.9,true,true
+Whiskers and Wags Pet Hospital,Cat,17.4,false,true
+Paws and Claws Animal Hospital,Dog,18.3,false,false
+Paws and Claws Animal Hospital,Cat,4.3,false,false
+Whiskers and Wags Pet Hospital,Bird,12.5,false,true
+Happy Tails Veterinary Clinic,Cat,13.7,false,true
+Whiskers and Wags Pet Hospital,Dog,6.9,false,true
+Whiskers and Wags Pet Hospital,Dog,2.3,false,true
+Paws and Claws Animal Hospital,Bird,16.4,true,false
+Whiskers and Wags Pet Hospital,Dog,10.6,true,false
+Whiskers and Wags Pet Hospital,Cat,8.2,false,false
+Happy Tails Veterinary Clinic,Bird,14.2,true,false
+Happy Tails Veterinary Clinic,Snake,5.4,true,true
+Happy Tails Veterinary Clinic,Dog,18.6,true,false
+Paws and Claws Animal Hospital,Dog,7.3,true,false
+Whiskers and Wags Pet Hospital,Bird,14.9,true,true
+Paws and Claws Animal Hospital,Cat,6.8,false,false
+Whiskers and Wags Pet Hospital,Dog,9.9,false,false
+Happy Tails Veterinary Clinic,Snake,7.5,true,true
+Happy Tails Veterinary Clinic,Cat,18.8,false,false
+Happy Tails Veterinary Clinic,Bird,13.0,false,false
+Paws and Claws Animal Hospital,Dog,9.2,false,false
+Paws and Claws Animal Hospital,Dog,10.0,true,false
+Whiskers and Wags Pet Hospital,Bird,1.4,true,true
+Paws and Claws Animal Hospital,Snake,10.3,false,true
+Happy Tails Veterinary Clinic,Dog,9.1,true,true
+Happy Tails Veterinary Clinic,Dog,8.3,true,false
+Paws and Claws Animal Hospital,Turtle,15.1,true,true
+Whiskers and Wags Pet Hospital,Turtle,14.4,false,true
+Whiskers and Wags Pet Hospital,Bird,9.3,false,false
+Paws and Claws Animal Hospital,Cat,2.4,true,true
+Happy Tails Veterinary Clinic,Turtle,19.5,false,true
+Paws and Claws Animal Hospital,Turtle,10.0,true,true
+Whiskers and Wags Pet Hospital,Turtle,17.4,true,false
+Whiskers and Wags Pet Hospital,Cat,19.3,false,false
+Whiskers and Wags Pet Hospital,Dog,4.5,false,true
+Paws and Claws Animal Hospital,Dog,13.4,false,false
+Paws and Claws Animal Hospital,Cat,10.2,false,false
+Paws and Claws Animal Hospital,Turtle,11.2,true,true
+Paws and Claws Animal Hospital,Dog,18.6,false,false
+Whiskers and Wags Pet Hospital,Snake,3.2,true,true
+Paws and Claws Animal Hospital,Cat,14.4,true,true
+Paws and Claws Animal Hospital,Turtle,4.6,false,false
+Happy Tails Veterinary Clinic,Dog,9.7,true,false
+Paws and Claws Animal Hospital,Snake,16.8,true,true
+Happy Tails Veterinary Clinic,Dog,6.3,true,false
+Whiskers and Wags Pet Hospital,Cat,0.9,true,true
+Happy Tails Veterinary Clinic,Cat,17.5,false,true
+Whiskers and Wags Pet Hospital,Cat,6.5,false,true
+Whiskers and Wags Pet Hospital,Turtle,11.0,false,true
+Paws and Claws Animal Hospital,Cat,6.2,false,false
+Happy Tails Veterinary Clinic,Cat,17.2,true,false
+Paws and Claws Animal Hospital,Turtle,14.6,true,true
+Whiskers and Wags Pet Hospital,Bird,1.5,true,true
+Happy Tails Veterinary Clinic,Dog,3.5,false,true
+Whiskers and Wags Pet Hospital,Turtle,7.4,true,false
+Whiskers and Wags Pet Hospital,Snake,4.6,true,false
+Happy Tails Veterinary Clinic,Cat,15.8,true,false
+Whiskers and Wags Pet Hospital,Cat,12.4,true,false
+Whiskers and Wags Pet Hospital,Cat,18.1,false,false
+Paws and Claws Animal Hospital,Cat,18.6,false,false
+Happy Tails Veterinary Clinic,Bird,17.2,false,true
+Paws and Claws Animal Hospital,Bird,12.0,true,true
+Whiskers and Wags Pet Hospital,Dog,17.9,true,false
+Paws and Claws Animal Hospital,Cat,4.4,false,true
+Paws and Claws Animal Hospital,Dog,7.2,true,true
+Whiskers and Wags Pet Hospital,Dog,19.7,true,false
+Whiskers and Wags Pet Hospital,Cat,3.2,false,true
+Whiskers and Wags Pet Hospital,Cat,10.3,false,false
+Paws and Claws Animal Hospital,Bird,13.8,false,false
+Paws and Claws Animal Hospital,Dog,4.1,true,false
+Happy Tails Veterinary Clinic,Cat,14.3,false,true
+Paws and Claws Animal Hospital,Snake,9.4,false,false
+Paws and Claws Animal Hospital,Cat,11.8,false,true
+Paws and Claws Animal Hospital,Cat,5.8,true,false
+Happy Tails Veterinary Clinic,Dog,15.4,false,false
+Happy Tails Veterinary Clinic,Cat,14.6,false,true
+Paws and Claws Animal Hospital,Bird,4.3,false,true
+Paws and Claws Animal Hospital,Turtle,13.4,false,false
+Whiskers and Wags Pet Hospital,Dog,5.9,true,false
+Paws and Claws Animal Hospital,Cat,2.6,false,true
+Paws and Claws Animal Hospital,Dog,9.8,false,true
+Whiskers and Wags Pet Hospital,Snake,7.1,true,true
+Happy Tails Veterinary Clinic,Cat,3.3,true,false
+Happy Tails Veterinary Clinic,Dog,8.2,true,true
+Whiskers and Wags Pet Hospital,Cat,6.3,true,true
+Whiskers and Wags Pet Hospital,Dog,3.7,true,false
+Paws and Claws Animal Hospital,Turtle,6.4,true,true
+Whiskers and Wags Pet Hospital,Cat,2.9,false,false
+Whiskers and Wags Pet Hospital,Bird,5.7,true,false
+Paws and Claws Animal Hospital,Cat,11.1,false,true
+Happy Tails Veterinary Clinic,Turtle,2.3,true,true
+Happy Tails Veterinary Clinic,Bird,1.9,false,true
+Happy Tails Veterinary Clinic,Cat,14.8,true,true
+Whiskers and Wags Pet Hospital,Dog,9.4,false,false
+Happy Tails Veterinary Clinic,Dog,0.1,false,false
+Whiskers and Wags Pet Hospital,Bird,7.5,true,false
+Paws and Claws Animal Hospital,Turtle,1.9,false,false
+Happy Tails Veterinary Clinic,Cat,13.4,false,true
+Whiskers and Wags Pet Hospital,Bird,4.0,false,true
+Paws and Claws Animal Hospital,Turtle,8.2,false,false
+Happy Tails Veterinary Clinic,Turtle,18.9,true,true
+Whiskers and Wags Pet Hospital,Cat,18.9,false,true
+Happy Tails Veterinary Clinic,Dog,0.2,false,false
+Happy Tails Veterinary Clinic,Cat,16.8,true,false
+Happy Tails Veterinary Clinic,Dog,6.9,false,true
+Whiskers and Wags Pet Hospital,Dog,14.3,false,false
+Whiskers and Wags Pet Hospital,Cat,17.1,true,false
+Paws and Claws Animal Hospital,Cat,9.9,true,true
+Happy Tails Veterinary Clinic,Dog,9.6,false,true
+Paws and Claws Animal Hospital,Bird,6.3,false,true
+Whiskers and Wags Pet Hospital,Dog,5.4,false,true
+Happy Tails Veterinary Clinic,Dog,7.2,false,true
+Whiskers and Wags Pet Hospital,Dog,8.5,false,true
+Whiskers and Wags Pet Hospital,Turtle,5.0,true,false
+Whiskers and Wags Pet Hospital,Dog,13.5,true,false
+Whiskers and Wags Pet Hospital,Dog,3.9,false,true
+Whiskers and Wags Pet Hospital,Dog,17.4,false,true
+Whiskers and Wags Pet Hospital,Dog,6.4,true,false
+Happy Tails Veterinary Clinic,Bird,16.2,false,false
+Paws and Claws Animal Hospital,Dog,18.3,true,true
+Happy Tails Veterinary Clinic,Turtle,19.7,true,true
+Happy Tails Veterinary Clinic,Bird,16.2,false,true
+Whiskers and Wags Pet Hospital,Dog,2.6,false,false
+Paws and Claws Animal Hospital,Snake,2.2,true,true
+Paws and Claws Animal Hospital,Dog,6.4,true,true
+Whiskers and Wags Pet Hospital,Bird,6.3,true,true
+Whiskers and Wags Pet Hospital,Dog,11.3,true,true
+Paws and Claws Animal Hospital,Snake,2.5,false,true
+Paws and Claws Animal Hospital,Turtle,11.5,true,true
+Whiskers and Wags Pet Hospital,Cat,10.4,false,false
+Paws and Claws Animal Hospital,Turtle,8.9,false,true
+Happy Tails Veterinary Clinic,Cat,18.3,false,false
+Happy Tails Veterinary Clinic,Bird,8.9,false,true
+Paws and Claws Animal Hospital,Cat,8.9,true,false
+Paws and Claws Animal Hospital,Turtle,10.3,true,true
+Paws and Claws Animal Hospital,Cat,3.1,false,true
+Paws and Claws Animal Hospital,Cat,15.0,false,false
+Paws and Claws Animal Hospital,Dog,3.3,true,false
+Paws and Claws Animal Hospital,Dog,11.8,false,false
+Whiskers and Wags Pet Hospital,Bird,17.6,true,false
+Whiskers and Wags Pet Hospital,Bird,13.1,false,false
+Whiskers and Wags Pet Hospital,Snake,19.7,false,false
+Whiskers and Wags Pet Hospital,Turtle,13.1,true,false
+Happy Tails Veterinary Clinic,Dog,7.0,false,false
+Happy Tails Veterinary Clinic,Cat,3.9,false,false
+Paws and Claws Animal Hospital,Cat,16.7,false,false
+Whiskers and Wags Pet Hospital,Cat,6.8,true,false
+Whiskers and Wags Pet Hospital,Dog,10.8,true,false
+Paws and Claws Animal Hospital,Bird,19.6,false,false
+Happy Tails Veterinary Clinic,Cat,7.7,false,false
+Whiskers and Wags Pet Hospital,Cat,12.9,false,false
+Whiskers and Wags Pet Hospital,Dog,12.0,true,false
+Paws and Claws Animal Hospital,Dog,2.9,true,false
+Paws and Claws Animal Hospital,Dog,17.5,false,true
+Whiskers and Wags Pet Hospital,Cat,3.9,true,false
+Paws and Claws Animal Hospital,Snake,12.8,true,false
+Paws and Claws Animal Hospital,Snake,15.4,false,false
+Whiskers and Wags Pet Hospital,Dog,1.6,false,false
+Whiskers and Wags Pet Hospital,Dog,1.0,true,true
+Happy Tails Veterinary Clinic,Turtle,0.2,false,false
+Paws and Claws Animal Hospital,Bird,14.0,false,true
+Paws and Claws Animal Hospital,Dog,10.1,false,true
+Whiskers and Wags Pet Hospital,Dog,14.4,true,false
+Happy Tails Veterinary Clinic,Cat,18.7,false,true
+Happy Tails Veterinary Clinic,Cat,13.4,false,true
+Happy Tails Veterinary Clinic,Bird,4.0,false,false
+Paws and Claws Animal Hospital,Bird,12.2,false,false
+Whiskers and Wags Pet Hospital,Dog,7.9,false,false
+Whiskers and Wags Pet Hospital,Cat,18.0,false,false
+Happy Tails Veterinary Clinic,Bird,1.5,false,false
+Happy Tails Veterinary Clinic,Dog,15.7,true,false
+Happy Tails Veterinary Clinic,Dog,15.2,false,false
+Paws and Claws Animal Hospital,Cat,4.4,false,false
+Paws and Claws Animal Hospital,Dog,6.2,false,false
+Whiskers and Wags Pet Hospital,Cat,10.3,false,false
+Paws and Claws Animal Hospital,Dog,11.7,true,true
+Happy Tails Veterinary Clinic,Snake,16.8,true,false
+Happy Tails Veterinary Clinic,Cat,1.3,true,true
+Paws and Claws Animal Hospital,Dog,2.1,true,true
+Whiskers and Wags Pet Hospital,Dog,14.6,false,true
+Paws and Claws Animal Hospital,Turtle,9.6,true,true
+Paws and Claws Animal Hospital,Snake,16.8,false,true
+Whiskers and Wags Pet Hospital,Cat,9.8,true,false
+Paws and Claws Animal Hospital,Cat,7.2,false,true
+Whiskers and Wags Pet Hospital,Dog,4.9,true,false
+Paws and Claws Animal Hospital,Cat,4.7,true,true
+Happy Tails Veterinary Clinic,Cat,7.5,false,false
+Paws and Claws Animal Hospital,Dog,16.1,false,false
+Paws and Claws Animal Hospital,Cat,3.4,true,false
+Whiskers and Wags Pet Hospital,Cat,8.5,false,false
+Paws and Claws Animal Hospital,Dog,3.5,false,false
+Whiskers and Wags Pet Hospital,Cat,16.1,true,true
+Paws and Claws Animal Hospital,Turtle,19.0,false,false
+Whiskers and Wags Pet Hospital,Bird,12.7,false,false
+Paws and Claws Animal Hospital,Bird,15.6,true,true
+Paws and Claws Animal Hospital,Dog,7.8,true,false
+Happy Tails Veterinary Clinic,Dog,7.9,true,true
+Whiskers and Wags Pet Hospital,Bird,5.8,true,false
+Paws and Claws Animal Hospital,Snake,14.4,false,false
+Happy Tails Veterinary Clinic,Dog,9.2,false,false
+Happy Tails Veterinary Clinic,Cat,0.9,true,false
+Happy Tails Veterinary Clinic,Cat,19.5,true,true
+Whiskers and Wags Pet Hospital,Snake,19.9,false,false
+Paws and Claws Animal Hospital,Bird,8.3,false,false
+Paws and Claws Animal Hospital,Snake,0.6,false,false
+Paws and Claws Animal Hospital,Cat,2.6,true,false
+Paws and Claws Animal Hospital,Turtle,13.7,false,false
+Paws and Claws Animal Hospital,Bird,2.7,false,false
+Whiskers and Wags Pet Hospital,Cat,18.0,false,true
+Whiskers and Wags Pet Hospital,Bird,2.2,false,true
+Paws and Claws Animal Hospital,Dog,9.1,false,false
+Paws and Claws Animal Hospital,Bird,2.7,false,false
+Paws and Claws Animal Hospital,Cat,15.5,false,true
+Happy Tails Veterinary Clinic,Dog,18.3,false,false
+Whiskers and Wags Pet Hospital,Dog,10.7,true,true
+Happy Tails Veterinary Clinic,Bird,19.1,false,true
+Whiskers and Wags Pet Hospital,Cat,18.6,true,false
+Whiskers and Wags Pet Hospital,Cat,16.6,false,false
+Whiskers and Wags Pet Hospital,Dog,4.5,false,true
+Paws and Claws Animal Hospital,Turtle,8.8,false,true
+Paws and Claws Animal Hospital,Dog,18.1,false,false
+Whiskers and Wags Pet Hospital,Cat,13.3,false,false
+Paws and Claws Animal Hospital,Bird,16.4,true,false
+Happy Tails Veterinary Clinic,Snake,14.7,true,true
+Whiskers and Wags Pet Hospital,Bird,18.5,false,false
+Paws and Claws Animal Hospital,Cat,12.5,true,false
+Paws and Claws Animal Hospital,Bird,15.6,true,false
+Paws and Claws Animal Hospital,Bird,13.9,true,true
+Whiskers and Wags Pet Hospital,Cat,17.4,true,true
+Happy Tails Veterinary Clinic,Dog,15.3,true,true
+Happy Tails Veterinary Clinic,Dog,11.2,false,false
+Paws and Claws Animal Hospital,Bird,12.6,true,false
+Happy Tails Veterinary Clinic,Cat,18.9,false,true
+Whiskers and Wags Pet Hospital,Bird,1.8,false,true
+Happy Tails Veterinary Clinic,Bird,14.4,true,true
+Whiskers and Wags Pet Hospital,Cat,12.7,false,true
+Paws and Claws Animal Hospital,Snake,16.6,true,true
+Whiskers and Wags Pet Hospital,Dog,13.3,false,true
+Paws and Claws Animal Hospital,Snake,8.6,true,true
+Paws and Claws Animal Hospital,Snake,2.8,false,true
+Paws and Claws Animal Hospital,Cat,2.2,false,false
+Whiskers and Wags Pet Hospital,Dog,12.7,true,false
+Happy Tails Veterinary Clinic,Bird,8.0,true,false
+Paws and Claws Animal Hospital,Bird,1.9,true,true
+Paws and Claws Animal Hospital,Dog,1.5,true,true
+Whiskers and Wags Pet Hospital,Snake,15.4,false,true
+Whiskers and Wags Pet Hospital,Bird,9.0,true,true
+Whiskers and Wags Pet Hospital,Bird,4.0,false,true
+Paws and Claws Animal Hospital,Bird,6.4,false,false
+Happy Tails Veterinary Clinic,Dog,0.5,false,false
+Paws and Claws Animal Hospital,Turtle,19.5,true,true
+Happy Tails Veterinary Clinic,Bird,9.9,false,true
+Whiskers and Wags Pet Hospital,Bird,17.2,true,true
+Happy Tails Veterinary Clinic,Turtle,18.7,false,false
+Whiskers and Wags Pet Hospital,Bird,19.3,false,false
+Paws and Claws Animal Hospital,Bird,11.8,true,false
+Whiskers and Wags Pet Hospital,Turtle,11.3,true,true
+Whiskers and Wags Pet Hospital,Cat,10.3,true,false
+Happy Tails Veterinary Clinic,Dog,11.0,true,false
+Happy Tails Veterinary Clinic,Dog,13.8,true,false
+Happy Tails Veterinary Clinic,Dog,14.5,false,true
+Whiskers and Wags Pet Hospital,Dog,0.9,false,false
+Paws and Claws Animal Hospital,Cat,17.4,true,true
+Paws and Claws Animal Hospital,Cat,2.0,false,true
+Happy Tails Veterinary Clinic,Bird,4.6,false,true
+Whiskers and Wags Pet Hospital,Bird,19.2,false,true
+Whiskers and Wags Pet Hospital,Dog,14.7,false,true
+Paws and Claws Animal Hospital,Cat,16.5,false,false
+Whiskers and Wags Pet Hospital,Cat,17.2,true,false
+Whiskers and Wags Pet Hospital,Turtle,12.5,true,true
+Happy Tails Veterinary Clinic,Bird,7.4,true,false
+Whiskers and Wags Pet Hospital,Cat,5.6,false,false
+Happy Tails Veterinary Clinic,Dog,10.7,true,true
+Happy Tails Veterinary Clinic,Cat,3.7,true,false
+Happy Tails Veterinary Clinic,Cat,0.8,false,false
+Paws and Claws Animal Hospital,Cat,7.7,false,false
+Paws and Claws Animal Hospital,Dog,17.4,false,true
+Happy Tails Veterinary Clinic,Turtle,5.6,false,false
+Happy Tails Veterinary Clinic,Snake,11.5,false,true
+Whiskers and Wags Pet Hospital,Bird,8.9,false,false
+Paws and Claws Animal Hospital,Cat,7.2,true,true
+Happy Tails Veterinary Clinic,Dog,12.4,false,false
+Paws and Claws Animal Hospital,Dog,13.7,false,true
+Whiskers and Wags Pet Hospital,Dog,19.7,false,false
+Happy Tails Veterinary Clinic,Dog,12.7,true,true
+Whiskers and Wags Pet Hospital,Snake,16.2,true,true
+Happy Tails Veterinary Clinic,Cat,16.1,false,false
+Happy Tails Veterinary Clinic,Bird,18.0,false,false
+Paws and Claws Animal Hospital,Dog,12.3,true,true
+Happy Tails Veterinary Clinic,Bird,19.8,false,true
+Paws and Claws Animal Hospital,Cat,6.4,true,true
+Happy Tails Veterinary Clinic,Bird,15.2,true,false
+Paws and Claws Animal Hospital,Bird,0.8,false,true
+Happy Tails Veterinary Clinic,Dog,5.3,false,false
+Paws and Claws Animal Hospital,Dog,5.3,false,true
+Paws and Claws Animal Hospital,Cat,6.4,false,true
+Paws and Claws Animal Hospital,Turtle,13.8,false,true
+Paws and Claws Animal Hospital,Cat,0.2,false,true
+Happy Tails Veterinary Clinic,Dog,6.9,false,false
+Whiskers and Wags Pet Hospital,Cat,9.6,false,false
+Happy Tails Veterinary Clinic,Cat,11.0,false,false
+Paws and Claws Animal Hospital,Dog,13.4,false,false
+Paws and Claws Animal Hospital,Turtle,10.6,true,false
+Paws and Claws Animal Hospital,Dog,7.0,true,true
+Happy Tails Veterinary Clinic,Turtle,14.7,true,false
+Happy Tails Veterinary Clinic,Dog,5.7,true,true
+Happy Tails Veterinary Clinic,Bird,14.0,true,true
+Whiskers and Wags Pet Hospital,Snake,13.0,false,true
+Whiskers and Wags Pet Hospital,Dog,10.0,false,true
+Paws and Claws Animal Hospital,Turtle,17.5,false,true
+Whiskers and Wags Pet Hospital,Snake,2.1,false,false
+Whiskers and Wags Pet Hospital,Dog,2.9,false,true

@@ -4,3 +4,23 @@ For those looking to adopt a pet, it can be tedious work to look through adoptio
 ## App description
 
 ## Install instructions
+
+### Step 1: In your terminal, from project root directory, create conda environment:
+```bash
+conda env create --file environment.yml
+```
+
+### Step 2: Activate conda environment:
+```bash
+conda activate pet
+```
+
+### Step 3: Run the app locally:
+```bash
+cd src
+export FLASK_APP=app.py
+flask run --host=127.0.0.1 --port=8050
+```
+
+### Step 4: To view the app, enter this URL in your web browser address bar:
+http://127.0.0.1:8050/
